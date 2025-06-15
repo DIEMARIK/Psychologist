@@ -108,7 +108,6 @@ $popularSeason = getMostPopularSeason($pdo);
     <a href="index.php">Главная</a>
     <a href="Контакты.php">Контакты</a>
     <a href="#services">Услуги</a>
-    <a href="Формы.html">Записаться на консультацию</a>
     <a href="Комментарии.php">Отзывы</a>
     <a href="puzzles.php">Пятнашки</a>
 </nav>

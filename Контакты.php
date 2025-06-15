@@ -172,7 +172,6 @@ function renderRatingStars($rating) {
     <nav>
         <h2>Меню</h2>
         <a href="index.php">Главная</a>
-        <a href="Формы.html">Записаться на консультацию</a>
         <a href="Комментарии.php">Отзывы и комментарии</a>
         <a href="Контакты.php">Контакты</a>
     </nav>
