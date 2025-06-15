@@ -26,7 +26,7 @@
 Через кнопку Code → Download ZIP на GitHub
 Или с помощью Git:
 
-git clone https://github.com/ваш-логин/psychologist-site.git
+git clone https://github.com/DIEMARIK/Psychologist.git
 Распакуйте (если скачали ZIP) и разместите папку проекта в директории веб-сервера:
 
 Для OpenServer / XAMPP / MAMP — в папку htdocs или domains
